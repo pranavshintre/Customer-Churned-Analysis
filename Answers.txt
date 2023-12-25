@@ -1,0 +1,8 @@
+Questions to find the solution of churn analysis
+1.Identify the total number of customers and the churn rate - 21%
+2.Find the average age of churned customers - 50.90
+3.Discover the most common contract types among churned customers - Monthly
+4.Analyze the distribution of monthly charges among churned customers - ﻿﻿Across all 105 churned customers, monthly charges ranged from 1.17 to 99.05 
+5.Identify customers with high total charges who have churned - ﻿Customer ID with 352916 had the highest Total_charges with ﻿999.57 
+6.Calculate the total charges distribution for churned and non-churned customers - Total Charges Churned had 56,781.65﻿ and Non churned had 204,809.94 
+7.Calculate the average monthly charges for different contract types among churned customers - Average of monthly charges was higher for Yearly (52.77) than Monthly (52.25) for churned customers.
